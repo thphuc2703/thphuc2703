@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Phúc Nguyễn</h1>
 <h3 align="center">A Normal Student from HCMUS</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=thphuc2703&label=Profile%20views&color=0e75b6&style=flat" alt="thphuc2703" /> </p>
-
 - 🌱 I’m currently learning **Python, Selenium**
 
 - 📫 How to reach me **thphucnguyen2703@gmail.com**
