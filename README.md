@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phúc Nguyễn</h1>
 <h3 align="center">A Normal Student from HCMUS</h3>
 
-- 🌱 I’m currently learning **Python, Selenium**
+- 🌱 I’m currently learning **Python, Selenium, Software testing**
 
 - 📫 How to reach me **thphucnguyen2703@gmail.com**
 
